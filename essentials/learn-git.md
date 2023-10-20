@@ -13,7 +13,7 @@ Before you can use Git, you need to install it on your computer.
 Download the installer from the [Git official](https://git-scm.com/) site.
 Follow the installation steps using the wizard.
 #### For Mac:
-1. Install Homebrew, then run brew install git in the terminal.
+1. Install Homebrew, then run `brew install git` in the terminal.
 2. Alternatively, download the installer from the [Git official site](https://git-scm.com/) and follow the prompts.
 #### For Linux:
 Stop reading this guide you know what you're doing.
