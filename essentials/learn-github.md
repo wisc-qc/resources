@@ -49,21 +49,19 @@ Cloning a repository creates a local copy of the remote repo. This allows you to
 3. **Clone the Repository**: Open your terminal (for MacOS, Linux distributions) or command prompt/git bash (for Windows). Navigate to the directory where you want to clone the repository using the `cd` command.
 
 4. **Execute the Clone Command**: Type `git clone`, and then paste the URL you copied earlier. It should look like this:
-    ```
+    ```bash
     git clone https://github.com/username/repository.git
     ```
     Press `Enter` to create your local clone.
 
-    ![Command to clone](https://docs.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
-
 5. **Navigate into Your Cloned Repository**: Once the repository is cloned, you'll have a local version on your computer. Use the `cd` command to navigate into the directory of the cloned repository. Now, you can start working on it!
 
-    ```
+    ```bash
     cd repository
     ```
 
 6. **Set Upstream (Optional)**: If you're planning on pulling updates from the original repository, set the 'upstream' to keep your local repository up to date. In your terminal, run:
-    ```
+    ```bash
     git remote add upstream https://github.com/username/repository.git
     ```
     This step is crucial if you're contributing to open-source projects or working with a team.
