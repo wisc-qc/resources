@@ -1,7 +1,7 @@
 # Beginner's Guide to Git
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. This guide covers the basics you need to know to get started with Git.
 
-<img src="https://www.mew.org/~kazu/proj/visual-git-guide/basic-usage.svg">
+<img src="https://www.miximum.fr/wp-content/uploads/2013/07/git_workflow.png">
 
 ### Why Version Control?
 Version control is essential in software development, providing a safety net for code changes, facilitating team collaboration, and preventing data loss. It enables tracking of modifications, easy rollback to functional states, and streamlined integration of concurrent updates, significantly enhancing project efficiency and continuity.
