@@ -127,3 +127,5 @@ GitHub empowers you to work collaboratively with other developers, maintain vers
 ---
 
 Remember, the best way to understand GitHub is by using it. Don't hesitate to experiment, make mistakes, and ask the community for help. Good luck with your coding journey!
+
+Created by [Nico](https://github.com/nico-himself). 

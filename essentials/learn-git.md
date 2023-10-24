@@ -1,4 +1,4 @@
-# Beginner's Guide to Git
+# Beginner's Guide: Git
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. This guide covers the basics you need to know to get started with Git.
 
 <img src="https://www.miximum.fr/wp-content/uploads/2013/07/git_workflow.png">
@@ -107,4 +107,11 @@ git pull # updates your local working directory to the most recent version on gi
 ```
 
 If this isn't making sense, take a glance at this image. Sometimes a picture is worth a thousand words.
+
 <img src=https://pbs.twimg.com/media/FjJ62xKXkAYfFjt.jpg>
+
+
+---
+I hope this guide to Git has been some measure of help, but if you're still scratching your head remember there is a whole host of resources out there! I learned by watching this [Nick White video](https://www.youtube.com/watch?v=mJ-qvsxPHpY) which clicked for me. Best of luck!
+
+Created by [Nico](https://github.com/nico-himself). 
